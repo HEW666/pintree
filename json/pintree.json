@@ -197,46 +197,109 @@
             "title": "功能类",
             "children": [
               {
-                "type": "link",
-                "addDate": 1728881739669,
-                "title": "Suno-生成音乐",
-                "icon": "https://logo.clearbit.com/suno.com",
-                "url": "https://suno.com/"
+                "type": "folder",
+                "addDate": 1728906033972,
+                "title": "文生图",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1728882412855,
+                    "title": "文心一格 - AI艺术和创意辅助平台",
+                    "icon": "https://logo.clearbit.com/yige.baidu.com",
+                    "url": "https://yige.baidu.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728882285167,
+                    "title": "Midjourney-画图",
+                    "icon": "https://logo.clearbit.com/www.midjourney.com",
+                    "url": "https://www.midjourney.com/home"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1728906079883,
+                "title": "文生音视频",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1728905944675,
+                    "title": "在线免费文字转语音:生成剪映AI配音",
+                    "icon": "https://logo.clearbit.com/tiktokvoice.net",
+                    "url": "https://tiktokvoice.net/zh"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728881739669,
+                    "title": "Suno-生成音乐",
+                    "icon": "https://logo.clearbit.com/suno.com",
+                    "url": "https://suno.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728882589863,
+                    "title": "sore-文生视频",
+                    "icon": "https://logo.clearbit.com/openai.com",
+                    "url": "https://openai.com/sora"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728904395554,
+                    "title": "MOKI - 我用AI做短片",
+                    "icon": "https://logo.clearbit.com/www.moki.cn",
+                    "url": "https://www.moki.cn/home"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1728906107988,
+                "title": "办公",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1728904756259,
+                    "title": "职得AI简历 - 职得智创旗下免费AI简历生成工具,一键自动简历排版,在线快速设计精美简历",
+                    "icon": "https://logo.clearbit.com/www.zdjianli.cn",
+                    "url": "https://www.zdjianli.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728904744594,
+                    "title": "AI灵感PPT - 免费一键PPT生成工具,支持AI绘图、AI配音、AI写作等AI办公工具,万字文档快捷总结PPT,在线自由编辑设计PPT,助力职得智能创造",
+                    "icon": "https://logo.clearbit.com/www.lgppt.cn",
+                    "url": "https://www.lgppt.cn/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728882670888,
+                    "title": "GitHub Copilot · Your AI pair programmer · GitHub",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/features/copilot"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728882496529,
+                    "title": "免费 AI 写作工具 - 无需注册，无限制 - TinyWow",
+                    "icon": "https://logo.clearbit.com/tinywow.com",
+                    "url": "https://tinywow.com/tools/write"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728882536109,
+                    "title": "免费 AI 写作、PDF、图像和其他在线工具 - TinyWow",
+                    "icon": "https://logo.clearbit.com/tinywow.com",
+                    "url": "https://tinywow.com/"
+                  }
+                ]
               },
               {
                 "type": "link",
-                "addDate": 1728882285167,
-                "title": "Midjourney-画图",
-                "icon": "https://logo.clearbit.com/www.midjourney.com",
-                "url": "https://www.midjourney.com/home"
-              },
-              {
-                "type": "link",
-                "addDate": 1728882412855,
-                "title": "文心一格 - AI艺术和创意辅助平台",
-                "icon": "https://logo.clearbit.com/yige.baidu.com",
-                "url": "https://yige.baidu.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1728882496529,
-                "title": "免费 AI 写作工具 - 无需注册，无限制 - TinyWow",
-                "icon": "https://logo.clearbit.com/tinywow.com",
-                "url": "https://tinywow.com/tools/write"
-              },
-              {
-                "type": "link",
-                "addDate": 1728882589863,
-                "title": "sore-文生视频",
-                "icon": "https://logo.clearbit.com/openai.com",
-                "url": "https://openai.com/sora"
-              },
-              {
-                "type": "link",
-                "addDate": 1728882670888,
-                "title": "GitHub Copilot · Your AI pair programmer · GitHub",
-                "icon": "https://logo.clearbit.com/github.com",
-                "url": "https://github.com/features/copilot"
+                "addDate": 1728904715106,
+                "title": "红抖AI盒子 - 一站式自媒体创作工具平台,短视频图文在线创作工具集合,作品搬运二次创作必备",
+                "icon": "https://logo.clearbit.com/hd-box.lingandata.com",
+                "url": "https://hd-box.lingandata.com/"
               }
             ]
           },
@@ -286,15 +349,197 @@
       },
       {
         "type": "folder",
+        "addDate": 1728904486473,
+        "title": "解析",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1728904890323,
+            "title": "解析视频",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1728904953395,
+                "title": "抖音视频去水印-抖音短视频解析-抖音短视频下载-抖音去水印教程",
+                "icon": "https://logo.clearbit.com/www.jiexiapi.top",
+                "url": "https://www.jiexiapi.top/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728905084323,
+                "title": "快手去水印-抖音去水印",
+                "icon": "https://logo.clearbit.com/dy.kukutool.com",
+                "url": "https://dy.kukutool.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728904900147,
+            "title": "解析图文",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1728905138026,
+                "title": "PicSeed - 图片图文收藏助手 - 微博、小红书、抖音、推特、Instagram、Spotify、AppleMusic、即刻等平台图片批量下载。",
+                "icon": "https://logo.clearbit.com/picseed.com",
+                "url": "https://picseed.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728905372899,
+                "title": "红抖AI盒子 - 小红书抖音图片去水印工具，一键批量处理去水印，支持图片下载",
+                "icon": "https://logo.clearbit.com/hd-box.lingandata.com",
+                "url": "https://hd-box.lingandata.com/image-watermark-removal-tool"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1728904927882,
+            "title": "RedHelper-小红书视频、图片去水印解析下载",
+            "icon": "https://logo.clearbit.com/xhs.ratbox.top",
+            "url": "https://xhs.ratbox.top/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728905007923,
+            "title": "从所有网络提取视频/图像，TikTok、Twitter、Instagram、VK视频下载",
+            "icon": "https://logo.clearbit.com/tiqu.cc",
+            "url": "https://tiqu.cc/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728905037131,
+            "title": "万能视频图片解析下载 - SnapAny",
+            "icon": "https://logo.clearbit.com/snapany.com",
+            "url": "https://snapany.com/zh"
+          }
+        ]
+      },
+      {
+        "type": "folder",
         "addDate": 1728882532741,
         "title": "工具",
         "children": [
           {
-            "type": "link",
-            "addDate": 1728882536109,
-            "title": "免费 AI 写作、PDF、图像和其他在线工具 - TinyWow",
-            "icon": "https://logo.clearbit.com/tinywow.com",
-            "url": "https://tinywow.com/"
+            "type": "folder",
+            "addDate": 1728906402726,
+            "title": "图片处理",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1728906414069,
+                "title": "图片压缩",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1728906434660,
+                    "title": "Compress JPG：免费在线的图片压缩器，支持 JPG/JPEG/PNG/WebP 等格式，无需注册",
+                    "icon": "https://logo.clearbit.com/compressjpg.io",
+                    "url": "https://compressjpg.io/zh-CN"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728906498748,
+                    "title": "在线压缩图像文件，并确保最佳质量和压缩程度。",
+                    "icon": "https://logo.clearbit.com/www.iloveimg.com",
+                    "url": "https://www.iloveimg.com/zh-cn/compress-image"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728906569484,
+                    "title": "TinyPNG – 智能压缩您的WebP、JPEG和PNG图片",
+                    "icon": "https://logo.clearbit.com/tinify.cn",
+                    "url": "https://tinify.cn/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1728907116644,
+                "title": "图片合成",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1728907126771,
+                    "title": "SHOT SLEEK-图片加渐变背景",
+                    "icon": "https://logo.clearbit.com/pretty-snap.iwhy.dev",
+                    "url": "https://pretty-snap.iwhy.dev/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728907252180,
+                    "title": "图片拼接|图片水印|图片园切|图片加框",
+                    "icon": "https://logo.clearbit.com/kejiweixun.com",
+                    "url": "https://kejiweixun.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1728907803717,
+                    "title": "GeekCard-Share Text More Beautifully",
+                    "icon": "https://logo.clearbit.com/geekcard.app",
+                    "url": "https://geekcard.app/"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1728906512652,
+                "title": "iLoveIMG | 图像文件在线编辑工具",
+                "icon": "https://logo.clearbit.com/www.iloveimg.com",
+                "url": "https://www.iloveimg.com/zh-cn"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728906890061,
+            "title": "画图",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1728906894189,
+                "title": "Pollyoyo - 发现创作的乐趣",
+                "icon": "https://logo.clearbit.com/app.pollyoyo.com",
+                "url": "https://app.pollyoyo.com/login"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728906985605,
+            "title": "设计",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1728907014349,
+                "title": "Canva可画_在线设计协作平台_平面设计作图软件_视觉办公套件 - Canva中文官网",
+                "icon": "https://logo.clearbit.com/www.canva.cn",
+                "url": "https://www.canva.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728907403189,
+                "title": "简单设计EasyDesign-免费在线设计工具图片处理工具",
+                "icon": "https://logo.clearbit.com/jiandan.link",
+                "url": "https://jiandan.link/app/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1728907621748,
+                "title": "VistaCreate – Free Graphic Design Software with 100,000+ Free Templates",
+                "icon": "https://logo.clearbit.com/create.vista.com",
+                "url": "https://create.vista.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728907811308,
+                "title": "快图设计-批量图片设计工具",
+                "icon": "https://logo.clearbit.com/www.kuaitu.cc",
+                "url": "https://www.kuaitu.cc/#/"
+              }
+            ]
           }
         ]
       }

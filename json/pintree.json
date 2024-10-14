@@ -1,0 +1,303 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1728826232147,
+    "title": "书签栏",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1728826679347,
+        "title": "资源",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1728826479754,
+            "title": "论坛",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1728826429138,
+                "title": "吾爱破解 - 52pojie.cn",
+                "icon": "https://logo.clearbit.com/www.52pojie.cn",
+                "url": "https://www.52pojie.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728826639148,
+                "title": "小众软件官方论坛 - 小众软件",
+                "icon": "https://logo.clearbit.com/meta.appinn.net",
+                "url": "https://meta.appinn.net/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728826744501,
+            "title": "精选",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1728827050923,
+                "title": "小众软件 - 分享免费、小巧、实用、有趣、绿色的软件",
+                "icon": "https://logo.clearbit.com/www.appinn.com",
+                "url": "https://www.appinn.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728827121236,
+                "title": "软件 电手",
+                "icon": "https://logo.clearbit.com/www.dians.net",
+                "url": "https://www.dians.net/forum-19.htm"
+              },
+              {
+                "type": "link",
+                "addDate": 1728827265339,
+                "title": "那些免费的砖 - 发现优质的免费商用资源",
+                "icon": "https://logo.clearbit.com/www.thosefree.com",
+                "url": "https://www.thosefree.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728827536420,
+                "title": "异次元软件世界 - 软件改变生活！",
+                "icon": "https://logo.clearbit.com/www.iplaysoft.com",
+                "url": "https://www.iplaysoft.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728827797322,
+                "title": "新趣集 - 一起发现有趣的新产品",
+                "icon": "https://logo.clearbit.com/xinquji.com",
+                "url": "https://xinquji.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728827869755,
+                "title": "只读 - 好产品值得被分享",
+                "icon": "https://logo.clearbit.com/www.rdonly.com",
+                "url": "https://www.rdonly.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728828252359,
+                "title": "克隆窝 | 助互联网玩家寻找每一条道路",
+                "icon": "https://logo.clearbit.com/www.uy5.net",
+                "url": "https://www.uy5.net/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728828270948,
+                "title": "素材资源网-免费高质量素材分享站",
+                "icon": "https://logo.clearbit.com/www.sucaizy.com",
+                "url": "https://www.sucaizy.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728826744501,
+            "title": "导航",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1728826944500,
+                "title": "一个框导航网 | 海纳百川，网罗一框！一个有用网站收录平台！",
+                "icon": "https://logo.clearbit.com/yigekuang.cn",
+                "url": "https://yigekuang.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728827951796,
+                "title": "大鹏IOS资源导航页",
+                "icon": "https://logo.clearbit.com/ios.sha0p.top",
+                "url": "https://ios.sha0p.top/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728828382670,
+                "title": "ai导航-非猪ai导航,让你秒变飞猪ai工具集合网站指南,汇聚国内外知名aigc软件服务",
+                "icon": "https://logo.clearbit.com/feizhuke.com",
+                "url": "https://feizhuke.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728828402771,
+                "title": "优设AI导航 - 国内专业AI工具导航网站 - 热门AI工具每周更新",
+                "icon": "https://logo.clearbit.com/hao.uisdc.com",
+                "url": "https://hao.uisdc.com/ai/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728882374742,
+                "title": "优设导航官网 - 设计导航 - 国内专业设计师网站导航",
+                "icon": "https://logo.clearbit.com/hao.uisdc.com",
+                "url": "https://hao.uisdc.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728828446098,
+                "title": "酷啦鱼 - 用心做纯净、实用的网站清单！",
+                "icon": "https://logo.clearbit.com/www.kulayu.com",
+                "url": "https://www.kulayu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728828458667,
+                "title": "叛逆草导航 - 一个专注收集分享免费优质资源的导航网站!",
+                "icon": "https://logo.clearbit.com/www.pncao.com",
+                "url": "https://www.pncao.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728828519964,
+                "title": "HiPPTER | PPT资源导航 | PPT模板图表等设计素材免费下载",
+                "icon": "https://logo.clearbit.com/www.hippter.com",
+                "url": "https://www.hippter.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728827355147,
+            "title": "周刊",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1728827324443,
+                "title": "Product Hunt – The best new products in tech.",
+                "icon": "https://logo.clearbit.com/www.producthunt.com",
+                "url": "https://www.producthunt.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728827589578,
+                "title": "不死鸟 - 分享为王官网",
+                "icon": "https://logo.clearbit.com/iui.su",
+                "url": "https://iui.su/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728827747196,
+                "title": "DecoHack | 独立产品灵感周刊",
+                "icon": "https://logo.clearbit.com/decohack.com",
+                "url": "https://decohack.com/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1728881576351,
+        "title": "AI",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1728881905271,
+            "title": "功能类",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1728881739669,
+                "title": "Suno-生成音乐",
+                "icon": "https://logo.clearbit.com/suno.com",
+                "url": "https://suno.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728882285167,
+                "title": "Midjourney-画图",
+                "icon": "https://logo.clearbit.com/www.midjourney.com",
+                "url": "https://www.midjourney.com/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1728882412855,
+                "title": "文心一格 - AI艺术和创意辅助平台",
+                "icon": "https://logo.clearbit.com/yige.baidu.com",
+                "url": "https://yige.baidu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728882496529,
+                "title": "免费 AI 写作工具 - 无需注册，无限制 - TinyWow",
+                "icon": "https://logo.clearbit.com/tinywow.com",
+                "url": "https://tinywow.com/tools/write"
+              },
+              {
+                "type": "link",
+                "addDate": 1728882589863,
+                "title": "sore-文生视频",
+                "icon": "https://logo.clearbit.com/openai.com",
+                "url": "https://openai.com/sora"
+              },
+              {
+                "type": "link",
+                "addDate": 1728882670888,
+                "title": "GitHub Copilot · Your AI pair programmer · GitHub",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/features/copilot"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728881981975,
+            "title": "全能类",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1728881963342,
+                "title": "腾讯元器",
+                "icon": "https://logo.clearbit.com/yuanqi.tencent.com",
+                "url": "https://yuanqi.tencent.com/agent-shop"
+              },
+              {
+                "type": "link",
+                "addDate": 1728881853526,
+                "title": "Kimi.ai - 帮你看更大的世界",
+                "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+                "url": "https://kimi.moonshot.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728881799333,
+                "title": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
+                "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
+                "url": "https://xinghuo.xfyun.cn/desk"
+              },
+              {
+                "type": "link",
+                "addDate": 1728881632909,
+                "title": "ChatGPT",
+                "icon": "https://logo.clearbit.com/chatgpt.com",
+                "url": "https://chatgpt.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1728882136349,
+                "title": "文心一言",
+                "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+                "url": "https://yiyan.baidu.com/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1728882532741,
+        "title": "工具",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1728882536109,
+            "title": "免费 AI 写作、PDF、图像和其他在线工具 - TinyWow",
+            "icon": "https://logo.clearbit.com/tinywow.com",
+            "url": "https://tinywow.com/"
+          }
+        ]
+      }
+    ]
+  }
+]

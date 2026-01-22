@@ -520,13 +520,6 @@
               },
               {
                 "type": "link",
-                "addDate": 1766064397397,
-                "title": "壹号讯息",
-                "icon": "https://logo.clearbit.com/yihaozhan.xyz",
-                "url": "http://yihaozhan.xyz/bobo.html"
-              },
-              {
-                "type": "link",
                 "addDate": 1743856736441,
                 "title": "一网一匠极速版 - 一起发现有趣的新产品",
                 "icon": "https://logo.clearbit.com/ywyj.cn",
@@ -558,6 +551,26 @@
                 "title": "第190期 (06-02~06-08) - 老胡的周刊",
                 "icon": "https://logo.clearbit.com/weekly.howie6879.com",
                 "url": "https://weekly.howie6879.com/2025/06-02~06-08.%E8%80%81%E8%83%A1%E7%9A%84%E5%91%A8%E5%88%8A%EF%BC%88%E7%AC%AC190%E6%9C%9F%EF%BC%89.html"
+              },
+              {
+                "type": "link",
+                "title": "30tool-可能是最好的工具网",
+                "icon": "https://logo.clearbit.com/www.30aitool.com",
+                "url": "https://www.30aitool.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1768477718184,
+                "title": "repoview.dev - 发现最有趣好用的开源软件项目",
+                "icon": "https://logo.clearbit.com/repoview.dev",
+                "url": "https://repoview.dev/"
+              },
+              {
+                "type": "link",
+                "addDate": 1768989630829,
+                "title": "壹号讯息",
+                "icon": "https://logo.clearbit.com/yihaozhan.xyz",
+                "url": "http://yihaozhan.xyz/qiantai.html"
               }
             ]
           },
@@ -2033,12 +2046,6 @@
                     "title": "work7z/MDGJX: 秒达工具箱，借助独创高效的输入方式，让您可以快速呼出各类工具、文档及笔记等资源，免费安全无广告，现已完全开源！",
                     "icon": "https://logo.clearbit.com/github.com",
                     "url": "https://github.com/work7z/MDGJX"
-                  },
-                  {
-                    "type": "link",
-                    "title": "30tool-可能是最好的工具网",
-                    "icon": "https://logo.clearbit.com/www.30aitool.com",
-                    "url": "https://www.30aitool.com/"
                   },
                   {
                     "type": "link",

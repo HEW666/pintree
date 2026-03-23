@@ -55,6 +55,13 @@
                 "title": "NodeLoc - 自由、平等、友好、开放、有趣的交流社区",
                 "icon": "https://logo.clearbit.com/www.nodeloc.com",
                 "url": "https://www.nodeloc.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1774245765052,
+                "title": "论坛 - 无忧启动论坛 - Powered by Discuz!",
+                "icon": "https://logo.clearbit.com/bbs.wuyou.net",
+                "url": "https://bbs.wuyou.net/"
               }
             ]
           },
@@ -321,6 +328,13 @@
                 "title": "Simplify Your computer Usage",
                 "icon": "https://logo.clearbit.com/www.sordum.org",
                 "url": "https://www.sordum.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1774245802386,
+                "title": "绿软驿站 - 安全纯净的绿色软件下载站",
+                "icon": "https://logo.clearbit.com/www.gndown.net",
+                "url": "https://www.gndown.net/"
               }
             ]
           },
